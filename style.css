@@ -1,0 +1,44 @@
+div {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 5px;
+}
+
+div.recipe {
+    font-size: 16px
+}
+
+div.align{
+    margin:auto;
+    text-align: center;
+}
+mark {
+    background-color: yellow;
+}
+
+div.ingredients {
+    box-sizing: border-box;
+    height: auto;
+    width: auto;
+    border: solid black 2px;
+    padding: 20px;
+    background-color: azure;
+}
+
+div.recipe {
+    box-sizing: border-box;
+    height: auto;
+    width: auto;
+    border: solid black 2px;
+    padding: 30px;
+    background-color: aliceblue;
+}
+
+img {
+    box-sizing: border-box;
+    height: 500;
+    width: 891px;
+    border: solid black 2px;
+    margin: auto;
+}
+
